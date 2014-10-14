@@ -6,7 +6,7 @@ This is a simple command-line implementation of the classic **paper-rock-scissor
 Files
 -----
 
-* game.h
+* prs.h
 * main.c
 * compute.c
 * printing.c

@@ -1,4 +1,4 @@
-#include "game.h"
+#include "prs.h"
 
 void print_game_info (void)
 {

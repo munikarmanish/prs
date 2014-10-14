@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -O -ggdb 
-HFILES = game.h
+HFILES = prs.h
 CFILES = main.c printing.c compute.c utility.c
 EFILE = prs
 OUTD = .

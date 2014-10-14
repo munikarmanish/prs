@@ -1,4 +1,4 @@
-#include "game.h"
+#include "prs.h"
 
 char *getstr (char *string, int length, FILE* file)
 {

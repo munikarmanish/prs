@@ -1,4 +1,4 @@
-#include "game.h"
+#include "prs.h"
 
 char computer_move (void)
 {
